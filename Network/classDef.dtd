@@ -1,0 +1,23 @@
+<!ELEMENT classDef (yearduration,semester,class*)>
+<!ATTLIST  classDef student_name CDATA #REQUIRED>
+<!ATTLIST classDef  student_number CDATA #REQUIRED>
+        <!ELEMENT  class (yearduration,semester,classNumber,className,classType,credits,cagotory,compact+,campus,teacher)>
+            <!ELEMENT yearduration (start,end)>
+            <!ELEMENT start (#PCDATA)>
+            <!ELEMENT end (#PCDATA)>
+            <!ELEMENT semester (#PCDATA)>
+            <!ELEMENT serialnumber (#PCDATA)>
+            <!ELEMENT name (#PCDATA)>
+            <!ELEMENT type (#PCDATA)>
+            <!ELEMENT credits (#PCDATA)>
+            <!ELEMENT compact (Place,time)+>
+            <!ELEMENT cagotory (#PCDATA)>
+            <!ELEMENT Place (#PCDATA)>
+            <!ELEMENT time (#PCDATA)>
+            <!ELEMENT campus (#PCDATA)>
+            <!ELEMENT teacher (#PCDATA)>
+            <!ELEMENT classNumber (#PCDATA)>
+            <!ELEMENT classType (#PCDATA)>
+            <!ELEMENT className (#PCDATA)>
+
+

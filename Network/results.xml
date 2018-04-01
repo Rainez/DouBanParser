@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE classDef SYSTEM "classDef.dtd">
+<classDef student_name="刘武强" student_number="15351059">
+    <yearduration>
+        <start>2017</start>
+        <end>2018</end>
+    </yearduration>
+    <class>
+        <yearduration>
+            <start>2017</start>
+            <end>2018</end>
+        </yearduration>
+        <semester>第二学期</semester>
+        <classNumber>35000269</classNumber>
+        <className>Android 应用设计与开发</className>
+        <classType>专选</classType>
+        <credits>2</credits>
+        <cagotory>主修</cagotory>
+        <compact>
+            <Place>东A207</Place>
+            <time>0-0</time>
+        </compact>
+        <campus>东校区</campus>
+        <teacher>张永民</teacher>
+    </class>
+    <class>
+        <yearduration>
+            <start>2017</start>
+            <end>2018</end>
+        </yearduration>
+        <semester>第二学期</semester>
+        <classNumber>35118099</classNumber>
+        <className>管理信息系统</className>
+        <classType>专必</classType>
+        <credits>3</credits>
+        <cagotory>主修</cagotory>
+        <compact>
+            <Place>东A204</Place>
+            <time>0-0</time>
+            <Place>东A502</Place>
+            <time>0-0</time>
+        </compact>
+        <campus>东校区</campus>
+        <teacher>高集荣</teacher>
+    </class>
+    <class>
+        <yearduration>
+            <start>2017</start>
+            <end>2018</end>
+        </yearduration>
+        <semester>第二学期</semester>
+        <classNumber>20000114</classNumber>
+        <className>密码学原理与技术</className>
+        <classType>专必</classType>
+        <credits>3</credits>
+        <cagotory>主修</cagotory>
+        <compact>
+            <Place>东A103</Place>
+            <time>0-0</time>
+            <Place>东A204</Place>
+            <time>0-0</time>
+        </compact>
+        <campus>东校区</campus>
+        <teacher>杜育松</teacher>
+    </class>
+</classDef>

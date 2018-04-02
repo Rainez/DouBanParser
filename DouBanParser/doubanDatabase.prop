@@ -1,0 +1,5 @@
+jdbc=com.mysql.jdbc.Driver
+username=root
+password=MBL6K6cxf8oC
+path=jdbc:mysql://localhost:3306/DouBan?user=!u&password=!p&verifyServerCertificate=false&useSSL=true
+despath=jdbc:mysql://localhost:3306/MetaDes?user=!u&password=!p&verifyServerCertificate=false&useSSL=true
